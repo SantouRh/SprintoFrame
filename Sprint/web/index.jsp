@@ -13,6 +13,6 @@
     </head>
     <body>
         <h1>Bonjour</h1>
-        <a href="/Sprint/Servlet">Envoyer un lien</a>
+        <a href="/Sprint/Servelt">Envoyer un lien</a>
     </body>
 </html>
